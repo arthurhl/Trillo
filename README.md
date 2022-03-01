@@ -5,7 +5,7 @@
 
 <div align="center">
  
-  <img alt="Nexter" src="">
+  <img alt="Nexter" src="https://github.com/arthurhl/Trillo/blob/master/img/3%20Device%20MashupTrillo.png?raw=true">
   
   
   </div>
